@@ -19,6 +19,9 @@ target/
 *.iml
 *.ipr
 
+### Ignore the Docker Folder ###
+docker/
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
