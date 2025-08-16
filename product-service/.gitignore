@@ -19,6 +19,9 @@ target/
 *.iml
 *.ipr
 
+### Ignore the Data Folder ###
+data/
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
